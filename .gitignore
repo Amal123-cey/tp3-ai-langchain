@@ -42,3 +42,5 @@ dist/
 # Optional: Jupyter Notebook output
 # Uncomment to ignore notebook output if desired
 # *.ipynb
+*.pyc
+_pycache_/
