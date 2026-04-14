@@ -1,0 +1,44 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+.venv/
+.env/
+.env
+
+# Python environment and packaging
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs and runtime files
+*.log
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / build
+build/
+dist/
+*.egg
+*.whl
+
+# Optional: Jupyter Notebook output
+# Uncomment to ignore notebook output if desired
+# *.ipynb

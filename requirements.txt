@@ -1,0 +1,9 @@
+# Dépendances nécessaires pour exécuter le notebook AI
+langchain==1.2.15
+langchain-openai==1.1.12
+python-dotenv==1.2.2
+langgraph==1.1.6
+langchain-tavily==0.2.17
+langchain-experimental==0.4.1
+openai==2.31.0
+ipython==9.11.0
